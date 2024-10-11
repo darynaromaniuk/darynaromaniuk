@@ -9,9 +9,9 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Managing Access Controls in Windows Server        | <a href="https://github.com/darynaromaniuk/Managing-Access-Controls-in-Windows-Server/blob/main/README.md">Managing Access Controls in Windows Server Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Managing Access Controls in Windows Server    | SOC Automation Lab|
+| In Process    | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | In Process                                    | SOC Automation Lab|
 | In Process                                    | SOC Automation Lab|
@@ -38,6 +38,6 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 </div>
 
 ## Projects
-- Managing Access Controls in Windows Server
+- <a href="https://github.com/darynaromaniuk/Managing-Access-Controls-in-Windows-Server/blob/main/README.md">Managing Access Controls in Windows Server Lab</a>
 - Detection Lab
 - SOC Automation Project
