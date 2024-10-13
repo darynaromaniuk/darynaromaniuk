@@ -10,10 +10,10 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Managing Access Controls in Windows Server        | <a href="https://github.com/darynaromaniuk/Managing-Access-Controls-in-Windows-Server/blob/main/README.md">Managing Access Controls in Windows Server Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | In Process|
 | Installing-Using-and-Blocking-Malware-Backdoors   | <a href="https://github.com/darynaromaniuk/Installing-Using-and-Blocking-Malware-Backdoors">Installing-Using-and-Blocking-Malware-Backdoors</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| In Process                                    | SOC Automation Lab|
+| Incident Response Planning and Execution      | In Process |
+| Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems                                   | <a href="https://github.com/darynaromaniuk/Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems/blob/main/README.md">Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems</a>|
 | In Process                                    | SOC Automation Lab|
 
 ## Tools
@@ -40,4 +40,4 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 ## Projects
 - <a href="https://github.com/darynaromaniuk/Managing-Access-Controls-in-Windows-Server/blob/main/README.md">Managing Access Controls in Windows Server Lab</a>
 - <a href="https://github.com/darynaromaniuk/Installing-Using-and-Blocking-Malware-Backdoors">Installing-Using-and-Blocking-Malware-Backdoors</a>
-- SOC Automation Project
+- <a href="https://github.com/darynaromaniuk/Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems/blob/main/README.md">Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems</a>
