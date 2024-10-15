@@ -34,3 +34,8 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 - <a href="https://github.com/darynaromaniuk/Change-Management-Policy--/blob/main/Change%20policy.pdf">Change Management</a>
 - <a href="https://github.com/darynaromaniuk/Security-Trainings-and-Awareness-Policy-/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82.pdf">Security-Trainings-and-Awareness-Policy</a>
 
+## OWASP Top 10 Challenges
+
+- **OWASP - 1: Broken Access Control**:
+    - **Path Traversal:** <a href="https://github.com/darynaromaniuk/Path-Traversal-OWASP-Challenge/blob/main/README.md">Path Traversal</a>
+
