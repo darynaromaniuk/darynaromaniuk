@@ -28,3 +28,6 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 - <a href="https://github.com/darynaromaniuk/Managing-Access-Controls-in-Windows-Server/blob/main/README.md">Managing Access Controls in Windows Server Lab</a>
 - <a href="https://github.com/darynaromaniuk/Installing-Using-and-Blocking-Malware-Backdoors">Installing-Using-and-Blocking-Malware-Backdoors</a>
 - <a href="https://github.com/darynaromaniuk/Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems/blob/main/README.md">Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems</a>
+
+##Policies
+
