@@ -14,21 +14,8 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 | Installing-Using-and-Blocking-Malware-Backdoors   | <a href="https://github.com/darynaromaniuk/Installing-Using-and-Blocking-Malware-Backdoors">Installing-Using-and-Blocking-Malware-Backdoors</a>|
 | Incident Response Planning and Execution      | In Process |
 | Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems                                   | <a href="https://github.com/darynaromaniuk/Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems/blob/main/README.md">Implementing-Access-Controls-on-Linux-and-Windows-Operating-Systems</a>|
-| In Process                                    | SOC Automation Lab|
 
-## Tools
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 ## Courses
 <div>
