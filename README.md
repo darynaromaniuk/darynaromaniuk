@@ -47,5 +47,6 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
     - **Direct Request** <a href="https://github.com/darynaromaniuk/Direct-Request-OWASP-Challenge/blob/main/README.md">Direct Request</a>
     
 - **OWASP - 2: Cryptographic Failures**:
-    - **Use of Weak Hash:**
+    - **Use of Weak Hash:** <a href="https://github.com/darynaromaniuk/Use-of-Weak-Hash/blob/main/README.md">Use of Weak Hash</a>
+    -
 
