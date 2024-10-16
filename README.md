@@ -5,6 +5,12 @@
 
 I am a third-year cybersecurity student passionate about cybersecurity and currently looking for a job or intership as a Security Operations Center (SOC) Tier 1 Analyst. I am especially interested in incident response, threat hunting, and security automation.Additionally, I have a keen interest in Governance, Risk, and Compliance (GRC) and Information Security Management Systems (ISMS).
 
+### :fire: My Stats :
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darynaromaniuk&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## Skills
 
 | Skill                                         | Associated Project         |
