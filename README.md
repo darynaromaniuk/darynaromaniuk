@@ -44,4 +44,8 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
 
 - **OWASP - 1: Broken Access Control**:
     - **Path Traversal:** <a href="https://github.com/darynaromaniuk/Path-Traversal-OWASP-Challenge/blob/main/README.md">Path Traversal</a>
+    - **Direct Request** <a href="https://github.com/darynaromaniuk/Direct-Request-OWASP-Challenge/blob/main/README.md">Direct Request</a>
+    
+- **OWASP - 2: Cryptographic Failures**:
+    - **Use of Weak Hash:**
 
