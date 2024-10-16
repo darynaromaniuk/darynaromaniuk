@@ -48,5 +48,8 @@ I am a third-year cybersecurity student passionate about cybersecurity and curre
     
 - **OWASP - 2: Cryptographic Failures**:
     - **Use of Weak Hash:** <a href="https://github.com/darynaromaniuk/Use-of-Weak-Hash/blob/main/README.md">Use of Weak Hash</a>
-    -
+    
+  **OWASP - 3: Injection**:
+  
+    - **Command Injection:** 
 
