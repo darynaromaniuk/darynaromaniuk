@@ -3,7 +3,7 @@
 
 ## Objective
 
-I am a third-year cybersecurity student passionate about cybersecurity and currently looking for a job or intership as a Security Operations Center (SOC) Tier 1 Analyst. I am especially interested in incident response, threat hunting, and security automation.Additionally, I have a keen interest in Governance, Risk, and Compliance (GRC) and Information Security Management Systems (ISMS).
+I am a third-year cybersecurity student passionate about cybersecurity and currently looking for a job or intership.I am especially interested in incident response, threat hunting, and security automation.Additionally, I have a keen interest in Governance, Risk, and Compliance (GRC) and Information Security Management Systems (ISMS).
 
 ### :fire: My Stats :
 
